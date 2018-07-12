@@ -1,0 +1,8 @@
+(how to play the game)
+first in read me!.txt download Panda3D 1.10.0
+second you make a folder called toontown in C:\ folder
+the 3rd step drag extract the Panda3D 1.10.0 in toontown folder
+then you make a new text file and save as toontown.toonbase.CilentStart in the Panda3D 1.10.0 python folder
+and before you make the file make sure that under it should say txt* put it under all files
+finally make the file
+and enjoy!! :)
