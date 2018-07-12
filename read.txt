@@ -1,1 +1,1 @@
-panda3d: https://github.com/Toonerz/ToontownStride/blob/f11adea4074014acdc5d59e3a475df4b83268fcf/Panda3D-1.10.0.exe
+link for panda3d: https://github.com/Toonerz/ToontownStride/blob/f11adea4074014acdc5d59e3a475df4b83268fcf/Panda3D-1.10.0.exe
