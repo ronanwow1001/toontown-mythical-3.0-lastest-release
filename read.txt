@@ -1,1 +1,1 @@
-panda3d: https://raw.github.com/Toonerz/ToontownStride/blob/master/Panda3D-1.10.0.exe
+panda3d: https://github.com/Toonerz/ToontownStride/tree/f11adea4074014acdc5d59e3a475df4b83268fcf
