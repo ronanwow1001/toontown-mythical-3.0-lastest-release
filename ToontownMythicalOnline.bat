@@ -1,5 +1,5 @@
 @echo off
-cd Downloads
+cd Panda3D 1.10.0
 import toontown.toonbase.ClientStart
 
 title The Mythical Engine
@@ -35,7 +35,7 @@ echo ===============================
 
 cd ../../
 
-    "C:\Panda3D-1.10.0\python\ppython.exe" -m toontown.toonbase.ClientStart
+    "C:\toontown\Panda3D-1.10.0\python\ppython.exe" -m toontown.toonbase.ClientStart
 )
 pause
 
