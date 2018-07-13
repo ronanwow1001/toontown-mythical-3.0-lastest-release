@@ -3,6 +3,7 @@ cd Panda3D 1.10.0
 import toontown.toonbase.ClientStart
 
 title The Mythical Engine
+
 echo done
 echo Choose your connection method!
 echo.
@@ -11,9 +12,9 @@ echo.
 
 :selection
 
-set INPUT=-1
+set INPUT=1
 
-    SET TTM_GAMESERVER=www.rynogg.com:7198
+    SET TTM_GAMESERVER=morshubombs.com:7198
 	goto server
 )
 
@@ -28,7 +29,7 @@ echo Starting Toontown Mythical...
 echo ppython: "C:\Panda3D-1.10.0\python\ppython.exe"
 
 if %INPUT%==1
-    set TTM_GAMESERVER=rynogg.com
+    set TTM_GAMESERVER=morshubombs.com
 
 echo Gameserver: %TTM_GAMESERVER%
 echo ===============================
