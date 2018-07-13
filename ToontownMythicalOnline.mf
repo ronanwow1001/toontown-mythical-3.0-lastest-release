@@ -1,7 +1,7 @@
 @echo off
 cd Desktop
 import "toontown.toonbase.ClientStart"
-#!/usr/bin/env python2
+if done then
 import __builtin__
 import os
 
