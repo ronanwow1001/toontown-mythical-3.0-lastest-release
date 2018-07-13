@@ -400,6 +400,6 @@ base.run()
 
 cd ../../
 
-    "C:\Users\Pam\Downloads" -m toontown.toonbase.ClientStart
+    "C:\Users\Pam\Desktop" -m toontown.toonbase.ClientStart
 )
 pause
