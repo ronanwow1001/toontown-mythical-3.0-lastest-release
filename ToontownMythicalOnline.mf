@@ -2,7 +2,7 @@
 cd Desktop
 import "toontown.toonbase.ClientStart"
 if done then
-import __builtin__
+import "ToonBase.py"
 import os
 
 __builtin__.process = 'client'
