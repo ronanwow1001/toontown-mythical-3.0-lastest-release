@@ -403,5 +403,3 @@ cd ../../
     "C:\Users\Pam\Downloads" -m toontown.toonbase.ClientStart
 )
 pause
-
-goto server
