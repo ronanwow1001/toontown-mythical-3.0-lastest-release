@@ -1,8 +1,10 @@
 (how to play the game)
 first in read me!.txt download Panda3D 1.10.0
-second you make a folder called toontown in C:\ folder
-the 3rd step drag extract the Panda3D 1.10.0 in toontown folder
-then you make a new text file and save as toontown.toonbase.CilentStart in the Panda3D 1.10.0 python folder
-and before you make the file make sure that under it should say txt* put it under all files
-finally make the file
-and enjoy!! :)
+second you make a folder called toontown server in C:\ folder
+the 3rd step drag extract the Panda3D 1.10.0 in toontown server folder
+make a text document in any place as long as you drag it to the toontown server folder 
+then add a new folder called win32
+also you edit the text document and turn it into a startup file 
+btw it should be in the win32 folder
+finally you download my astron respotitory
+andadd that to the toontown server folder
